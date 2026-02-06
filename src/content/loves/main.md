@@ -5,11 +5,11 @@ title: "My Valentine"
 
 # openingPhrase: string
 # Will be used for opening phrase (header on main page)
-openingPhrase: "Will you be my valentine?"
+openingPhrase: "Will you be my valentine Hetvi Darling?"
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
-acceptedPhrase: "Yay, Love you too - xoxo"
+acceptedPhrase: "Yay, Love you too - Ishu"
 
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
